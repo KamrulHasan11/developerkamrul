@@ -1,3 +1,10 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 h2{
-    color: #777777;
+    font-size: 41px;
+    line-height: 150%;
+}
+.name_heilight{
+    color: orange;
 }
