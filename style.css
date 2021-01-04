@@ -8,3 +8,8 @@ h2{
 .name_heilight{
     color: orange;
 }
+.header_section p{
+    width: 50%;
+    font-size: 17px;
+    color: #696969;
+}
