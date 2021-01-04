@@ -14,7 +14,7 @@ body{
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
+    height: 600px;
 }
 .half-width h2 span{
     color: orange;
@@ -39,12 +39,27 @@ section{
     background-color: orange;
     padding: 10px 20px;
     color: #ffffff;
-    background-image: linear-gradient( lightsalmon tomato;
+    background-image: linear-gradient( lightsalmon tomato);
     border-radius: 5px;
 }
 .fb_link_button{
     text-decoration: none;
     padding: 10px 20px;
     background-color: #FF3F8B;
-
+    color: #ffffff;
+    border-radius: 5px;
+}
+.dream_big_section{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#second_img{
+    width: 97%;
+}
+.p_left_width{
+    margin-right: 36px;
+}
+.div3{
+    float: left;
 }
