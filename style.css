@@ -29,10 +29,11 @@ section{
     font-size: 17px;
     margin-top: -15px;
     color: #696969;
+    width: 40%px;
 }
 .half-width img{
-    width: 100%;
-    padding: 2% 3% 2% 2%;
+    width: 450px;
+    padding: 4% 0% 0% 17%;
 }
 .link-button{
     text-decoration: none;
@@ -54,12 +55,21 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
-#second_img{
-    width: 97%;
-}
-.p_left_width{
-    margin-right: 36px;
-}
-.div3{
+.second_half-width{
+    width: 37%%;
     float: left;
+    margin-left: 7%;
+}
+.second_half-width h2{
+    font-size: 35px;
+}
+.second_half-width h3{
+    font-size: 25px;
+}
+.second_half-width p{
+    font-size: 17px;
+}
+#second_img{
+    width: 450px;
+    padding-left: 4% 0% 0% -17%;;
 }
