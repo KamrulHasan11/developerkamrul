@@ -1,15 +1,26 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-h2{
-    font-size: 41px;
-    line-height: 150%;
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2% 3% 2% 2%;
+    line-height: 169%;
 }
-.name_heilight{
+.half-width h2 span{
     color: orange;
 }
-.header_section p{
-    width: 50%;
+.half-width h2{
+    font-size: 39px;
+}
+.half-width h3{
+    font-size: 27px;
+    margin-top: 57px;
+}
+.half-width p{
     font-size: 17px;
-    color: #696969;
+}
+.half-width img{
+    width: 100%;
 }
